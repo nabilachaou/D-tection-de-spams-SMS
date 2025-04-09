@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nabilachaou/D-tection-de-spams-SMS-/blob/main/Copy_of_fcc_sms_text_classification.ipynb)
